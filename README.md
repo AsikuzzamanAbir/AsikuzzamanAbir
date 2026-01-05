@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**AsikuzzamanAbir/AsikuzzamanAbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!I’m a Python & AI Engineer who builds production-ready backend and AI systems, not just notebooks.
 
-Here are some ideas to get you started:
+🧠 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python – clean, scalable code
+
+Django – robust backend & REST APIs
+
+FastAPI – high-performance AI & ML services
+
+AI / Machine Learning – model development, evaluation, deployment
+
+LLMs & RAG systems – chatbots, knowledge assistants
+
+AI Agents – task automation, tool-using intelligent agents
+
+APIs & Databases – reliable system design
+
+🚀 What I build
+
+AI-powered backend services
+
+ML, LLM & agent-based systems
+
+Data-driven applications
+
+Scalable, maintainable products
+
+🎯 Focus
+
+Turning ideas and data into reliable AI-powered products.
+
+📫 Let’s connect:
+
+GitHub: https://github.com/AsikuzzamanAbir--
